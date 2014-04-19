@@ -52,7 +52,7 @@
 
 	#header-wrapper {
 		background-color: #007294;
-		background: #c8d2bc url(images/header-wrapper.jpg);
+		background: #c8d2bc url(images/bg1.png);
 		//*background-image: -moz-linear-gradient(top, #008dab, #007294);
 		background-image: -webkit-linear-gradient(top, #008dab, #007294);
 		background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#008dab), to(#007294));
