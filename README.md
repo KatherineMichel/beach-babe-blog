@@ -1,2 +1,3 @@
-beach-babe-blog
-===============
+# Beach Beauty Blog
+
+A Bootstrap prototype
