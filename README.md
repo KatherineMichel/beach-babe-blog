@@ -1,3 +1,3 @@
-beach-babe-blog
-===============
-See gh-pages branch for files
+# Beach Beauty Blog
+
+A Bootstrap prototype; See gh-pages branch for files
